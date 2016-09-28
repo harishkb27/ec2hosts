@@ -1,0 +1,4 @@
+aws_access_key: AWSTESTACCESSKEY
+aws_regions: [eu-west-1, us-east-1]
+aws_secret_access_key: AWSTESTSECRETACCESSKEY
+hosts_file: ./tests/test-hosts
